@@ -7,7 +7,7 @@ set hidden    " don't destroy buffer when abandonded
 call pathogen#infect()
 call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
-colors desert
+colors murphy
 
 filetype plugin indent on
 set cursorline                  " Highlight current line
